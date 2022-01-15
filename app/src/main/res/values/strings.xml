@@ -1,0 +1,49 @@
+<resources>
+    //Layout
+    <string name="app_name">BaiqIndraRatna</string>
+    <string name="judul_buah">Buah-Buahan Segar</string>
+    <string name="tap_gambar">(Tekan gambar untuk membuka galeri)</string>
+    //Biodata
+    <string name="biodata">Biodata</string>
+    <string name="biodataku">Biodata</string>
+    <string name="nama">NAMA : Baiq Indra Ratna</string>
+    <string name="alamat">Alamat : Wanasaba</string>
+    <string name="npm">NPM : 200602037</string>
+    <string name="kelas">Kelas : TI.B (Semester 3)</string>
+    //Data durian
+    <string name="musangking_nama">Musangking</string>
+    <string name="musangking_asal">Malaysia</string>
+    <string name="musangking_deskripsi">Aslinya berasal dari Malaysia, Malaysia dengan ciri khas rasanya yang melekat manis</string>
+    <string name="bawor_nama">Bawor</string>
+    <string name="bawor_asal">Banyumas</string>
+    <string name="bawor_deskripsi">Varietasnya beragam dan kaya dengan cita rasanya yang unik antara satu sama lain</string>
+    <string name="merah_nama">durian merah</string>
+    <string name="merah_asal">Kalimantan</string>
+    <string name="merah_deskripsi">durian hutan yang hanya tumbuh di hutan Kalimantan pada zaman kerajaan Blambangan</string>
+    //Data Mangga
+    <string name="berazil_nama">manggaberazil</string>
+    <string name="berazil_asal">Berazil</string>
+    <string name="berazil_deskripsi">\"warna buahnya akan berubah menjadi sangat cantik yakni perpaduan antara warna merah, kuning, dan hijau yang membentuk sebuah gradasi warna yang indah. \"</string>
+    <string name="madu_nama">manggamadu</string>
+    <string name="madu_asal">Thailand</string>
+    <string name="madu_deskripsi">mangga ini memiliki rasa yang manis bagaikan madu meskipun daging buahnya masih berwarna putih</string>
+    <string name="manalagi_nama">manggamanalagi</string>
+    <string name="manalagi_asal">Jawa Timur</string>
+    <string name="manalagi_deskripi">Mangga manalagi memiliki daging buah yang tebal dan padat dengan rasa yang sangat manis</string>
+    //Data Anggur
+    <string name="hijau_nama">hijau</string>
+    <string name="hijau_asal">Turki</string>
+    <string name="hijau_deskripsi">anggur kecil berbentuk oval berwarna hijau muda yang mengandung banyak gula. Setelah dikeringkan, gula terkonsentrasi dan menghasilkan rasa kismis yang manis</string>
+    <string name="anggur_nama">anggurmerah</string>
+    <string name="anggur_asal">Indonesia</string>
+    <string name="anggur_deskripsi">anggur yang daging dan kulitna berwarna merah serta rasanya ang manis</string>
+    <string name="hitam_nama">anggurhitam</string>
+    <string name="hitam_asal">california</string>
+    <string name="itam_deskripsi">anggur yang terkadang rasana agak asam</string>
+    //Title
+    <string name="durian">Durian</string>
+    <string name="mangga">Mangga</string>
+    <string name="anggur">Anggur</string>
+    //List
+    <string name="daftar">DAFTAR BUAH</string>
+</resources>

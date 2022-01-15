@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BaiqIndraRatna</string>
+    <string name="judul_buah">Fresh Fruits</string>
+    <string name="tap_gambar">(Press image to open gallery)</string>
+    <string name="biodata">Biodata</string>
+    <string name="biodataku">Biodata</string>
+    <string name="nama">NAME : Baiq Indra Ratna</string>
+    <string name="alamat">Adress : Wanasaba</string>
+    <string name="npm">NPM : 200602037</string>
+    <string name="kelas">Class : TI.B (Semester 3)</string>
+    <string name="musangking_nama">Musangking</string>
+    <string name="musangking_asal">Malaysia</string>
+    <string name="musangking_deskripsi">Originally from Malaysia, Malaysia with a characteristic sweet taste</string>
+    <string name="bawor_nama">Bawor</string>
+    <string name="bawor_asal">Banyumas</string>
+    <string name="bawor_deskripsi">The varieties are diverse and rich with unique flavors from each other</string>
+    <string name="merah_nama">Red durian</string>
+    <string name="merah_asal">Kalimantan</string>
+    <string name="merah_deskripsi">Forest durian that only grows in the forests of Borneo during the Blambangan kingdom</string>
+    <string name="berazil_nama">Mangoberazil</string>
+    <string name="berazil_asal">Berazil</string>
+    <string name="berazil_deskripsi">\"The color of the fruit will turn out to be very beautiful, namely a combination of red, yellow, and green colors that form a beautiful color gradation.\"</string>
+    <string name="madu_nama">mangohoney</string>
+    <string name="madu_asal">Thailand</string>
+    <string name="madu_deskripsi">This mango has a sweet taste like honey even though the flesh is still white</string>
+    <string name="manalagi_nama">manggamanalagi</string>
+    <string name="manalagi_asal">East Java</string>
+    <string name="manalagi_deskripi">Manalagi mango has thick and dense flesh with a very sweet taste</string>
+    <string name="hijau_nama">Green</string>
+    <string name="hijau_asal">Turkey</string>
+    <string name="hijau_deskripsi">small, light green oval grapes that contain a lot of sugar. After drying, the sugar is concentrated and produces a sweet raisin taste</string>
+    <string name="anggur_nama">Red grape</string>
+    <string name="anggur_asal">Indonesia</string>
+    <string name="anggur_deskripsi">grapes whose flesh and skin are red and have a sweet taste</string>
+    <string name="hitam_nama">black Grape</string>
+    <string name="hitam_asal">california</string>
+    <string name="itam_deskripsi">a wine that sometimes tastes a bit sour</string>
+    <string name="durian">Durian</string>
+    <string name="mangga">Manggo</string>
+    <string name="anggur">Grape</string>
+    <string name="daftar">FRUIT LIST</string>
+</resources>
